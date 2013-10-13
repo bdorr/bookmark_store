@@ -3,3 +3,9 @@ class Bookmark < ActiveRecord::Base
     
     
 end
+
+class Bookmark < ActiveRecord::Base
+    validates :url, length: { minimum: 1 }
+    
+    
+end

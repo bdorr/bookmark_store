@@ -1,5 +1,6 @@
 require 'spec_helper'
 
+
 describe "bookmarks/index" do
   before(:each) do
     assign(:bookmarks, [
@@ -21,3 +22,7 @@ describe "bookmarks/index" do
     assert_select "tr>td", :text => "Name".to_s, :count => 2
   end
 end
+
+
+
+
