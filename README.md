@@ -1,4 +1,4 @@
-Project 1 for Ruby on Rails with Dean Jefferson
+Project 2 for Ruby on Rails with Dean Jefferson
 
 Creator: Brandon Dorr
 
